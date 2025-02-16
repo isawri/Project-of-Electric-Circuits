@@ -1,1 +1,2 @@
 # Project-of-Electric-Circuits
+This project aims to review key concepts from the semester and enhance proficiency with Orcad software through circuit simulation. Key tasks include visualizing output voltage, calculating equivalent impedance and resonance frequency, analyzing the impact of component values, investigating filter behavior, and determining the Thevenin equivalent circuit. These exercises will deepen the understanding of circuit behaviors and characteristics.
