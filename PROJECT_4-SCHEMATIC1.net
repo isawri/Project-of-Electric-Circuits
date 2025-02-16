@@ -1,0 +1,12 @@
+* source PROJECT_4
+R_R3         0 N03259  817.2  
+R_R5         N03465 VO  10k  
+R_R1         N03335 N03304  24.49k  
+R_R4         0 N03465  10k  
+R_R2         N03259 VO  415.5  
+V_VCC1         VCC1 0 5Vdc
+X_U3         N03259 N03465 VCC1 VCC2 VO OPA134/BB
+V_VCC2         0 VCC2 5Vdc
+V_V4         N03335 0 DC 0Vdc AC 1Vac 
+C_C1         N03304 N03259  47n  
+C_C2         0 N03304  47n  
